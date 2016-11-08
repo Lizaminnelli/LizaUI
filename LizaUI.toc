@@ -1,0 +1,13 @@
+## Title: LizaUI
+## Interface: 70000
+## Author: Lizaminnelli - EU Frostwhisper
+## Notes: 
+## Set up for Liza
+## Resolution specific: 1920*1080
+## Disable: UI Scale
+## Version: 1.0
+
+core.lua
+bars.lua
+fixShittyCamera.lua
+unitframes.lua
